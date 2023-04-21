@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noheul1030&theme=swift&show_icons=true)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noheul1030&layout=compact&theme=swift&langs_count=10)](https://github.com/noheul1030/noheul1030)
