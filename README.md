@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noheul1030&theme=swift&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noheul1030&layout=compact&theme=swift&langs_count=5)](https://github.com/noheul1030/noheul1030)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noheul1030&layout=compact&theme=swift&langs_count=10)](https://github.com/noheul1030/noheul1030)
