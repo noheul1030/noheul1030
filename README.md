@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noheul1030&theme=swift&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noheul1030&layout=compact&theme=swift&langs_count=8)](https://github.com/noheul1030/noheul1030)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noheul1030)](https://solved.ac/noheul1030)
